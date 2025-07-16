@@ -2,4 +2,4 @@
 - [ ] conflic(충돌)을 위한 작업입니다.
 
 dev1
-- [ ] 디벨롭 된 cocfilc 입니다.
+- [ ] 디벨롭 된 confilc 입니다.
