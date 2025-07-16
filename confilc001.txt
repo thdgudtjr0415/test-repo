@@ -1,5 +1,10 @@
 - [ ] 지금부터 하는 작업은
 - [ ] conflic(충돌)을 위한 작업입니다.
 
-dev2
-- [ ] 디벨롭 된 confilc 일까요?
+// <<<<<<< HEAD
+// dev2
+// - [ ] 디벨롭 된 confilc 일까요?
+// =======
+dev1
+- [ ] 디벨롭 된 confilc 입니다.
+>>>>>>> origin/main
